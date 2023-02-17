@@ -1,0 +1,6 @@
+.img-fluid {
+    border-radius: 35px 0 35px 0 ;
+    -webkit-box-shadow: 7px 9px 24px -15px rgba(102,102,102,1);
+    -moz-box-shadow: 7px 9px 24px -15px rgba(102,102,102,1);
+    box-shadow: 7px 9px 24px -15px rgba(102,102,102,1);
+}
